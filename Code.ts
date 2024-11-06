@@ -15,7 +15,7 @@ const EVENT_ID_TAG = 'pelotonId';
 const REMINDER_MINUTES_BEFORE = 5;
 
 // Exact name of the Google Calendar in which events will be created. Leave blank for default calendar
-const TARGET_CALENDAR_NAME = '';
+const TARGET_CALENDAR_NAME = 'Peloton';
 
 // =====================
 
